@@ -1,0 +1,1 @@
+<h2 class="text-center">sorry the page not found </h2>

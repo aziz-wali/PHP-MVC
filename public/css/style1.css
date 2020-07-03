@@ -1,0 +1,460 @@
+.navbar .collapse .nav-item{
+  margin-left: 30px;
+  color:#000;
+}
+.navbar .collapse .nav-item:hover{
+  background-color:#FFF;
+  color:#000;
+}
+.navbar{
+  background-color:#ccd;
+}
+.bg-light{
+  background-color:#e9ecef !important;
+  padding:0px;
+  color:#000;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 1);
+}
+
+.container{
+  margin-top: 40px;
+}
+.pagename{
+
+  color:black;
+	margin-bottom: 43px;
+}
+.price{
+color:#28a745;
+background-color:#EEE;
+position:absolute;
+margin-left:10px;
+border: .5px solid #000;
+border-radius:5px;
+margin-top: 5px;
+padding-right:5px;
+padding-left: 5px;
+}
+.waiting{
+
+  color:red;
+background-color:#EEE;
+position:absolute;
+margin-left:80px;
+border: 1px solid #000;
+border-radius:5px;
+margin-top: 5px;
+padding-right:5px;
+padding-left: 5px;
+}
+.form{
+ width: 320px;
+	height: 400px;
+    margin: 100px auto;
+	border: 1px solid #000;
+	border-radius: 10px;
+	box-shadow: 10px 10px #8765;
+	background-color: #EEE;
+	padding: 20px 0 0 0 ;
+	/*background-image: url('../../beachh.jpg');*/
+	
+}
+.form:hover{
+	background-color: #CCC;
+}
+.form input{
+	width: 300px;
+  margin-bottom: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+
+}
+.form input:first-child{
+	margin-top: 30px;
+}
+
+.form i{
+	opacity: .7;
+}
+.form .btn {
+	text-align: center;
+	 margin-top:20px;
+}
+.form-profile{
+	width: 350px;
+	margin: auto;
+}
+body{
+ 
+  background-color:;
+ background-image:url(/beachh.jpg);
+}
+
+.form-member {
+  width: 439px;
+  margin: 100px auto;
+}.form-member .btn{
+  margin-top:20px;
+margin-left: 220px;
+padding-left: 20px;
+padding-right: 30px;}
+.form-member input{
+  margin-bottom:10px;
+	margin-left: 0px;
+}
+.form-member i{
+  float: left;
+	margin-right: 5px;
+display: inline-block;
+}
+.form-member h5 {
+		margin-right: 0px;
+}
+.main-table tr:first-child{
+
+  background-color: #987;
+  border:1px solid #000;
+}
+ .btn a{
+  text-decoration: none;
+  color: #fff ;
+}
+
+.dashboard .stat:hover{
+  background-color:#0d7dec;
+  color: #fff;
+}
+.form-member #vis-no{
+  margin-left:px;
+
+}
+.table td:hover{
+  background-color: #ccc;
+}
+.main-tabl{
+  width: 900px;
+  margin: auto;
+  margin-top: 80px;
+  overflow: hidden;
+  background-color:#CCC;
+}
+.main-tabl .btn-primary{
+  float:right;
+  margin-right: -65px;
+  margin-left:5px;
+  transition: all .4s linear;
+
+}
+.main-tabl .btn-danger{
+  float:right;
+  margin-right: -85px;
+  transition: all .4s linear;
+
+}
+.main-tabl td:hover .btn{
+
+  margin-right: 0px;
+}
+.main-tabl tr:first-child{
+  background-color:#0d7dec;
+  font-size: 26px;
+}
+.main-tabl a{
+  text-decoration: none;
+  color:#fff;
+}
+.main-tabl td:hover{
+  background-color: #fff;
+  color: ;
+}
+.main-tabl td:first-child{
+  
+}
+.main-tabl tr:first-child a{
+  color:#000;
+}
+.main-tabl tr .d a{
+  color: #dc5a9e;
+}
+.main-tabl tr .d .activ{
+  color: #f00;
+}
+.main-tabl .button{
+  margin-top: 450px;
+  margin-left: 400px;
+}
+
+.panel {
+  background-color:#FFF;
+  padding: px;
+	padding-right: px;
+}
+.panel .image{
+	margin-bottom:50px;
+	margin-top:-45px
+}
+.panel .panel-heading{
+background-color:;
+font-size: 28px;
+margin-bottom: 25px;
+	margin-left: 0px;
+color:#a50c0c;
+}
+.panel ul li span{
+  color:#000;
+}
+.titel{
+  background-color:;
+  color:#010010;
+}
+.button{
+  margin-left:px;
+}
+.panel .img-responsiv{
+  margin-top: px;
+  margin-left: px;
+}
+.dropdown-item {
+  color:blue;
+transition:all .4s linear;}
+
+  .dropdown-item:hover{
+    background-color:#7c7cd6;
+    color:#FFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .panel2{
+    margin-top:-38px;
+     background-color:;
+  padding: 20px;
+  }
+ .img-item-profile{
+    height: 100px;
+    width: 100px;
+    border:1px solid #0F0;
+    border-radius:5%;
+  }
+  .img-item-profile:hover{
+      
+    height: 110px;
+    width: 110px;
+  }
+  ul{
+    margin-bottom: 33px;
+  }
+  .navbar .collapse .navbar-nav .profile{
+  margin-top:10px;
+  }
+  .panel-primary img{
+    margin-right: 100px;
+	  margin-top: 50px;
+  }
+/*------------items.php------------*/
+ .panel-body ul{
+    margin-top:50px;
+  }
+.panel-body ul li{
+	margin-bottom: 10px;
+	
+}
+.panel-body ul li:hover{
+	background-color: #CCC;
+}
+.panel-body ul li {
+  background: #EEE;
+	padding:20px 10px 20px 10px;
+	border-radius: 15px;
+}
+.panel-body .in-cart{
+	float: right;
+		color:red;
+} 
+/*.panel-body ul li:nth-child(odd) {
+  background: #EEE;
+	padding:20px 10px 20px 10px;
+	border-radius: 15px;
+}*/
+.panel-body .image-item{
+	margin: -30px 20px 0px 20px;
+	height: 300px;
+	width: 300px;
+	
+}
+  .panel-heading{
+margin-left:px;
+  }
+.comment .textarea{
+	height: 120px;
+	width: 400px;
+}
+.textarea{
+	height: 120px;
+	width: 400px;
+}
+.comment form .btn-primary{
+	display: block;
+}
+.comment .alert{
+	margin-top: 10px;
+}
+.comment-content{
+	margin-bottom: 70px;
+	background-color: #EEE;
+	padding: 20px 15px 20px 15px;
+	border-radius: 10px;
+}
+.comment-content:hover{
+	background-color: #CCC;
+}
+.comment-content .username{
+	background-color: #FFF;
+}
+.comment-content:hover .angel{
+	border-top: 10px solid #FFF;
+border-right: 20px solid #CCC;
+border-bottom: 10px solid #FFF;
+}
+.angel{font-size: 0px; line-height: 0%; width: 0px;
+border-top: 10px solid #FFF;
+border-right: 20px solid #EEE;
+border-bottom: 10px solid #FFF;
+    margin: -39px 0 0 -33px;
+position: absolute;
+}
+.comment-image{
+	height: 30px;
+	width: 30px;
+	border-radius: 50px;
+}
+
+.comments .buttons{
+	display: none;
+}
+.comments .icon:hover .buttons{display: block;
+color:#F00;}
+.comments .buttons .btn{
+	margin-left: 5px;
+}
+/*.manage{
+	margin-left: 80px;
+}
+.buttons{
+	display: inline-flex;
+}
+.buttons a:last-child{
+	margin-left: 5px;
+}*/
+.thumbnail .img-responsive{
+	height: 250px;
+	width: 250px;
+}
+.thumbnail{
+height: 350px;
+margin-bottom: 20px;
+	overflow: hidden;
+
+}
+.thumbnail h3 ,.thumbnail span{
+	padding-left: 20px;
+}
+.notice{
+width: 300px;
+}
+.panel .img-responsive{
+	width: 400px;
+	margin-top: 150px;
+}
+.buy{
+	width: 
+	background-color: #EEE;
+	margin-left: 20px;
+	margin-top: -22px
+	
+}
+.buy .btn{
+	margin-bottom: 10px;
+	color: #FFF;
+}
+.fa-cart-plus  {color:#3864ca;
+margin-top: 12px;}
+.fa-cart-plus span{
+	color: #f00;
+	font-size: 22px;
+	position: absolute;
+	margin:-16px 0 0 -22px ;
+}
+.panel-body .buy-images img{width: 70px;height: 40px;
+border: 1px solid #EEE;}
+.panel-body .buy-images span{font-size:19px;
+margin-bottom: 10px;}
+.panel-body .buy-images img:nth-child(even){margin: 50px 10px 0px -80px}
+.orders-table img{
+	height: 50px;
+	width: 50px;
+}
+.orders-table{
+	margin-top: 43px;
+}
+/*---------------pay.php-------------*/
+.orders-table tr:first-child{
+	background-color: #EEE;
+}
+.orders-table .btn-danger{
+	margin-left: 6px;
+}
+.form-buy{
+	width: 600px;
+	margin:50px 0 0  25px;
+	background-color: #E7e7e7;
+	padding: 15px 0 10px 40px;
+}
+.form-buy h6{
+	margin-bottom: 50px;
+}
+.item-view{
+	margin:50px 0 0  25px;
+	background-color: #E7e7e7;
+	padding: 15px 0 10px 40px;
+}
+.item-view img{
+	height: 150px;
+	width: 150px;
+}
+.item-view .details{
+	margin-bottom: 30px;
+}
+.edit-form{
+	width: 320px;
+	margin: 100px auto;
+}
+.edit-form .btn{
+	margin-top: 33px;
+	margin-left:120px;
+}
+/*-----------------categories.php all.php-------------*/
+.cats:hover{
+	background-color:#EEE;
+}
+.search-form{width: 220px;
+float: right;
+margin-top: 10px;}
+.search-form .form-control{
+	margin-bottom: 5px;
+}
+.search-form .btn{
+	position: absolute;
+	margin: -40px 0 0 159px ;
+	
+}
+.search-result{
+	float: right;
+  margin: 49px -160px 0 0;
+
+	
+}

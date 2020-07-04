@@ -25,18 +25,7 @@ private function returnSql(){
 
 
 
-/*public function addemp($name,$lastname,$salary,$img,$address){
-	
 
-		 $query = "INSERT INTO ".static::$tablename.'(' .$this->returnSql().')' ."VALUES(?,?,?,?,?)";
-		       $sql=self::init()->prepare($query);
-                $sql->execute(array($name,$lastname,$salary,$img,$address));
-		        if($sql){
-		           $_SESSION['message']= 'add has been successfully...';
-
-			}
-			header('refresh:100;/employee/ ');
-			}*/
 			public function addemp($val1,$val2,$val3,$val4,$val5){
 	
                
@@ -44,7 +33,7 @@ private function returnSql(){
 		 var_dump($query);
 		       $sql=self::init()->prepare($query);
                 $sql->execute(array($val1,$val2,$val3,$val4,$val5));
-                // array($name,$lastname,$salary,$img,$address)
+                
 		        if($sql){
 		         echo 'add has been successfully...';
 
@@ -74,7 +63,7 @@ public function addarticle($title,$article,$article_img){
        $rows=$sql->fetchAll();
        return $rows;
         
-            // return $row['name'] .' -->'.$row['lastname'] .' --> '. $row['salary'] .'<br>' ;
+        ;
 
 
 	

@@ -11,8 +11,7 @@ define('HOST', 'http://'.$_SERVER['HTTP_HOST'].dirname($_SERVER['SCRIPT_NAME']) 
 define('DS', DIRECTORY_SEPARATOR);
 define('APP',realpath(dirname(__FILE__)).DS);//cours
 
-//define('APP',MVC.'app'.DS); // core (inside course)
-//echo CORE;
+
 define('CONTROLLER','/controllers'.DS );
 define('MODEL', APP.'models'.DS );
 define('VIEW', APP.'views'.DS ); 

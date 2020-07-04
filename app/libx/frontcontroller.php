@@ -53,9 +53,7 @@ public function show(){
 	
 	
 	
-    echo'<pre>';
-   // var_dump($action);
-  echo'</pre>';
+    
 				 
 }
 }

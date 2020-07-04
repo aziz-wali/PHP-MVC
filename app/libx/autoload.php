@@ -22,5 +22,5 @@ if(!file_exists($classname)){
 
 
 }
-//$x=new autoload();
+
 spl_autoload_register(__NAMESPACE__.'\autoload::autoload');
